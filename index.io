@@ -1,1 +1,1 @@
-<h1>red and blue</h1>
+title: red and blue
